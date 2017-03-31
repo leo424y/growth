@@ -1,9 +1,9 @@
-环境搭建
+環境搭建
 ---
 
 Node.js (V6.0.0)
 
-1.安装Cordova和Ionic Beta
+1.安裝Cordova和Ionic Beta
 
 ```
 npm install -g cordova ionic@beta
@@ -15,7 +15,7 @@ npm install -g cordova ionic@beta
 git clone git@github.com:phodal/growth2.git
 ```
 
-初始化子模块 content
+初始化子模組 content
 
 ```
 git submodule init
@@ -26,27 +26,27 @@ git submodule update
 ```
 
 
-3.执行安装命令
+3.執行安裝命令
 
 ```
 npm install
 ```
 
-4.运行Web界面
+4.執行Web介面
 
 ```
 ionic serve
 ```
 
-5.构建、构建手机安装包
+5.構建、構建手機安裝包
 
-构建:
+構建:
 
 ```
 ionic build android
 ```
 
-直接运行
+直接執行
 
 ```
 ionic run android

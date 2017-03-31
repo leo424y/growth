@@ -1,14 +1,14 @@
-Growth 2.0文档
+Growth 2.0文件
 ===
 
-相关信息见: [GitHub Issue](https://github.com/phodal/growth2/issues/1)
+相關資訊見: [GitHub Issue](https://github.com/phodal/growth2/issues/1)
 
-文档:
+文件:
 
  - [Setup](./Setup.md)
- - [编码规范](./Style.md)
+ - [編碼規範](./Style.md)
 
-技术栈
+技術棧
 ---
 
 App:
